@@ -1,5 +1,5 @@
 @echo off
-:: author Johann Loefflmann (htts://johann.loefflmann.net)
+:: author Johann Loefflmann (https://johann.loefflmann.net)
 ::
 :: This batch file generates a ncsound-german.jar (8.5 MB) for the 
 :: NumericalChameleon (http://NumericalChameleon.net) in order to
