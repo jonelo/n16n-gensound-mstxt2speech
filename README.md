@@ -8,7 +8,7 @@ for personal use you can generate all the required syllables by your own by call
 * Microsoft Windows 10 with the Microsfot Text to Speech Engine
 * PTTS (http://jampal.sourceforge.net/ptts.html)
 * SOX (http://sox.sourceforge.net/)
-* JDK (https://java.oracle.com or https://http://jdk.java.net/)
+* JDK (https://java.oracle.com or http://jdk.java.net or https://adoptopenjdk.net or http://zulu.org)
 
 ## Setup
 * Download and store all files from n16-gensound-mstxt2peech to a directory of your choice
