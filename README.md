@@ -5,7 +5,7 @@ Due to legal issues it is not allowed to redistribute the voice files produced b
 for personal use you can generate all the required syllables by your own by calling the batch script.
 
 ## Software Requirements
-* Microsoft Windows 10 with the Microsfot Text to Speech Engine
+* Microsoft Windows 10 with the Microsoft Text to Speech Engine
 * PTTS (http://jampal.sourceforge.net/ptts.html)
 * SOX (http://sox.sourceforge.net/)
 * JDK (https://java.oracle.com or http://jdk.java.net or https://adoptopenjdk.net or http://zulu.org)
